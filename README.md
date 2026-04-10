@@ -55,6 +55,7 @@
    <MultiCommand condition="(strIndexOf(@raw_brand, '你的新品牌') } -1)">
      <VariableCommand name="enterprise_name" expression="'your_brand_name'" type="string"/>
    </MultiCommand>
+   ```
 
-```
+
 3. 将对应的品牌 Logo 命名为 your_brand_name.png，并放置于主题包的 assets/todonote/ 目录下。
