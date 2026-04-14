@@ -35,16 +35,6 @@
 
 ---
 
-## 🛠️ 安装与使用
-
-1. 下载本项目的 `.mrc` / `.mtz` 主题文件包。
-2. 打开手机内置的 **「主题壁纸」** App。
-3. 进入 **我的 -> 模块混搭 -> 背屏显示**（或直接导入本地主题包）。
-4. 选择 **「Super-RearScreen-Island-Todo」** 并应用。
-5. 在前台运行「Todo便签」或触发外卖状态，将手机翻转即可在背屏查看效果。
-
----
-
 ## 💻 开发者说明
 
 如果你需要在此代码基础上进行二次开发（如添加新品牌）：
@@ -56,6 +46,8 @@
      <VariableCommand name="enterprise_name" expression="'your_brand_name'" type="string"/>
    </MultiCommand>
    ```
+
+
 
 
 3. 将对应的品牌 Logo 命名为 your_brand_name.png，并放置于主题包的 assets/todonote/ 目录下。
